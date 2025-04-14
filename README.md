@@ -218,7 +218,7 @@ replace viska/proto => ./proto
 
 ## 🧠 Author
 
-Built with ❤️ by [@yourusername](https://github.com/yourusername)
+Built with ❤️ by [@SilverNate](https://github.com/SilverNate)
 
 ```
 
